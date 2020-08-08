@@ -1,0 +1,532 @@
+{
+	"Name": "Alternatives",
+    "Type": "Complex",
+    "Categories": [
+        {
+            "Name": "Said",
+            "Type": "Simple",
+            "Words": [
+                "Accuse",
+                "Acknowledge",
+                "Acquire",
+                "Add",
+                "Admonish",
+                "Affirm",
+                "Agree",
+                "Allege",
+                "Allow",
+                "Allude",
+                "Announce",
+                "Answer",
+                "Apologize",
+                "Appease",
+                "Approve",
+                "Argue",
+                "Articulate",
+                "Ask",
+                "Asent",
+                "Assert",
+                "Assure",
+                "Begin",
+                "Beg",
+                "Believe",
+                "Berate",
+                "Beseech",
+                "Boast",
+                "Brag",
+                "Cajole",
+                "Call",
+                "Caution",
+                "Challenge",
+                "Charge",
+                "Chide",
+                "Cite",
+                "Claim",
+                "Coax",
+                "Command",
+                "Comment",
+                "Complain",
+                "Concede",
+                "Conclude",
+                "Concur",
+                "Confess",
+                "Confirm",
+                "Consent",
+                "Contend",
+                "Contest",
+                "Continue",
+                "Contribute",
+                "Counter",
+                "Criticize",
+                "Cross-examine",
+                "Debate",
+                "Decide",
+                "Declaim",
+                "Declare",
+                "Defend",
+                "Demand",
+                "Deny",
+                "Describe",
+                "Determine",
+                "Dictate",
+                "Discuss",
+                "Echo",
+                "Elaborate",
+                "Emphasize",
+                "Entreat",
+                "Enumerate",
+                "Exaggerate",
+                "Explain",
+                "Exhort",
+                "Expostulate",
+                "Extol",
+                "Fear",
+                "Fume",
+                "Gloat",
+                "Goad",
+                "Guess",
+                "Hasten",
+                "Hesitate",
+                "Hint",
+                "Imitate",
+                "Imply",
+                "Implore",
+                "Inform",
+                "Inquire",
+                "Insinuate",
+                "Insist",
+                "Interject",
+                "Interpose",
+                "Interpret",
+                "Interrupt",
+                "Interrogate",
+                "Intimate",
+                "Intimidate",
+                "Intone",
+                "Jeer",
+                "Jest",
+                "Joke",
+                "Laugh",
+                "Lecture",
+                "Lie",
+                "Make known",
+                "Magnify",
+                "Maintain",
+                "Manifest",
+                "Marvel",
+                "Mimic",
+                "Mock",
+                "Mourn",
+                "Muse",
+                "Note",
+                "Object",
+                "Observe",
+                "Offer",
+                "Order",
+                "Perceive",
+                "Persist",
+                "Plead",
+                "Point out",
+                "Ponder",
+                "Praise",
+                "Preach",
+                "Predict",
+                "Prevaricate",
+                "Proceed",
+                "Prod",
+                "Profane",
+                "Profess",
+                "Prophesy",
+                "Propound",
+                "Promise",
+                "Prompt",
+                "Propose",
+                "Protest",
+                "Pursue",
+                "Put in",
+                "Query",
+                "Question",
+                "Quip",
+                "Qoute",
+                "Rate",
+                "Rail",
+                "Run on",
+                "Rant",
+                "Rave",
+                "Recall",
+                "Recite",
+                "Recount",
+                "Regret",
+                "Reiterate",
+                "Rejoin",
+                "Remark",
+                "Remember",
+                "Remind",
+                "Remonstrate",
+                "Renounce",
+                "Repeat",
+                "Reply",
+                "Report",
+                "Reprimand",
+                "Request",
+                "Resolve",
+                "Resume",
+                "Retort",
+                "Reveal",
+                "Scoff",
+                "Scorn",
+                "Sermonize",
+                "Simper",
+                "Sneer",
+                "Specify",
+                "Spell out",
+                "Speak",
+                "Start",
+                "State",
+                "Stress",
+                "Submit",
+                "Suggest",
+                "Taunt",
+                "Testify",
+                "Think",
+                "Threaten",
+                "Tell",
+                "Urge",
+                "Vaunt",
+                "Venture",
+                "Voice",
+                "Volunteer"
+            ]
+        },
+        {
+            "Name": "Look",
+            "Type": "Simple",
+            "Words": [
+                "Admire",
+                "Attention",
+                "Behold",
+                "Bore",
+                "Consider",
+                "Delve",
+                "Distinguish",
+                "Eye",
+                "Eyeball",
+                "Examine",
+                "Explore",
+                "Flash",
+                "Gander",
+                "Gaze",
+                "Glance",
+                "Glare",
+                "Glaze",
+                "Glimpse",
+                "Gloat",
+                "Glower",
+                "Goggle",
+                "Heed",
+                "Hunt",
+                "Inspect",
+                "Investigate",
+                "Judge",
+                "Leer",
+                "Marking",
+                "Moon",
+                "Notice",
+                "Observe",
+                "Ogle",
+                "Peek",
+                "Peep",
+                "Pout",
+                "Probe",
+                "Pry",
+                "Quest",
+                "Regard",
+                "Review",
+                "Rivet",
+                "Rubberneck",
+                "Scrunity",
+                "Slant",
+                "Spot",
+                "Sneer",
+                "Squint",
+                "State",
+                "Study",
+                "Surveillance",
+                "Survey",
+                "Take in",
+                "Trace",
+                "Watch"
+            ]
+        },
+        {
+            "Name": "Very",
+            "Type": "Table-Simple",
+            "Subcategories": [
+                {
+					"Name": "Very afraid",
+					"Words": [
+                        "Terrified"
+					]
+                },
+                {
+					"Name": "Very angry",
+					"Words": [
+                        "Furious"
+					]
+                },
+                {
+					"Name": "Very bad",
+					"Words": [
+                        "Atrocious"
+					]
+                },
+                {
+					"Name": "Very beautiful",
+					"Words": [
+                        "Exquisite"
+					]
+                },
+                {
+					"Name": "Very big",
+					"Words": [
+                        "Immense"
+					]
+                },
+                {
+					"Name": "Very bright",
+					"Words": [
+                        "Dazzling"
+					]
+                },
+                {
+					"Name": "Very capable",
+					"Words": [
+                        "Accomplished"
+					]
+                },
+                {
+					"Name": "Very clean",
+					"Words": [
+                        "Spotless"
+					]
+                },
+                {
+					"Name": "Very clever",
+					"Words": [
+                        "Brilliant"
+					]
+                },
+                {
+					"Name": "Very cold",
+					"Words": [
+                        "Freezing"
+					]
+                },
+                {
+					"Name": "Very conventional",
+					"Words": [
+                        "Conservative"
+					]
+                },
+                {
+					"Name": "Very dirty",
+					"Words": [
+                        "Squalid"
+					]
+                },
+                {
+					"Name": "Very dry",
+					"Words": [
+                        "Parched"
+					]
+                },
+                {
+					"Name": "Very eager",
+					"Words": [
+                        "Keen"
+					]
+                },
+                {
+					"Name": "Very fast",
+					"Words": [
+                        "Quick"
+					]
+                },
+                {
+					"Name": "Very fierce",
+					"Words": [
+                        "Ferocious"
+					]
+                },
+                {
+					"Name": "Very good",
+					"Words": [
+                        "Superb"
+					]
+                },
+                {
+					"Name": "Very happy",
+					"Words": [
+                        "Jubilent"
+					]
+                },
+                {
+					"Name": "Very hot",
+					"Words": [
+                        "Scalding"
+					]
+                },
+                {
+					"Name": "Very hungry",
+					"Words": [
+                        "Ravenous"
+					]
+                },
+                {
+					"Name": "Very large",
+					"Words": [
+                        "Colossal"
+					]
+                },
+                {
+					"Name": "Very lively",
+					"Words": [
+                        "Loved"
+					]
+                },
+                {
+					"Name": "Very loved",
+					"Words": [
+                        "Adored"
+					]
+                },
+                {
+					"Name": "Very neat",
+					"Words": [
+                        "Immaculate"
+					]
+                },
+                {
+					"Name": "Very old",
+					"Words": [
+                        "Ancient"
+					]
+                },
+                {
+					"Name": "Very poor",
+					"Words": [
+                        "Destitute"
+					]
+                },
+                {
+					"Name": "Very quiet",
+					"Words": [
+                        "Silent"
+					]
+                },
+                {
+					"Name": "Very risky",
+					"Words": [
+                        "Perilous"
+					]
+                },
+                {
+					"Name": "Very roomy",
+					"Words": [
+                        "Spacious"
+					]
+                },
+                {
+					"Name": "Very rude",
+					"Words": [
+                        "Vulgar"
+					]
+                },
+                {
+					"Name": "Very serious",
+					"Words": [
+                        "Solemn"
+					]
+                },
+                {
+					"Name": "Very small",
+					"Words": [
+                        "Tiny"
+					]
+                },
+                {
+					"Name": "Very strong",
+					"Words": [
+                        "Unyielding"
+					]
+                },
+                {
+					"Name": "Very stupid",
+					"Words": [
+                        "Idiotic"
+					]
+                },
+                {
+					"Name": "Very tasty",
+					"Words": [
+                        "Delicious"
+					]
+                },
+                {
+					"Name": "Very thin",
+					"Words": [
+                        "Gaunt"
+					]
+                },
+                {
+					"Name": "Very tired",
+					"Words": [
+                        "Exhausted"
+					]
+                },
+                {
+					"Name": "Very ugly",
+					"Words": [
+                        "Hideous"
+					]
+                },
+                {
+					"Name": "Very valuable",
+					"Words": [
+                        "Precious"
+					]
+                },
+                {
+					"Name": "Very weak",
+					"Words": [
+                        "Feeble"
+					]
+                },
+                {
+					"Name": "Very wet",
+					"Words": [
+                        "Soaked"
+					]
+                },
+                {
+					"Name": "Very wicked",
+					"Words": [
+                        "Villainous"
+					]
+                },
+                {
+					"Name": "Very wise",
+					"Words": [
+                        "Sagacious"
+					]
+                },
+                {
+					"Name": "Very worried",
+					"Words": [
+                        "Anxious"
+					]
+                }
+            ]
+        }
+    ]
+}

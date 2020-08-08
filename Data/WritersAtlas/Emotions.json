@@ -1,0 +1,607 @@
+{
+	"Name": "Emotions",
+	"Description": "Words to use for emotions",
+	"Type": "Table",
+	"Categories": [
+		{
+			"Name": "Happy",
+			"Subcategories": [
+				{
+					"Name": "Joyful",
+					"Words": [
+						{
+							"Name": "Liberated",
+							"Synonyms": ["Emancipated", "Disenthralled"]
+						},
+						{
+							"Name": "Ecstatic",
+							"Synonyms": ["Elated", "Enraptured", "Entranced", "Euphoric", "Exhilarated"]
+						}
+					]
+				},
+				{
+					"Name": "Playful",
+					"Words": [
+						{
+							"Name": "Aroused",
+							"Synonyms": []
+						},
+						{
+							"Name": "Cheeky",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Interested",
+					"Words": [
+						{
+							"Name": "Amused",
+							"Synonyms": ["Entertained", "Pleased", "regaled"]
+						},
+						{
+							"Name": "Inquisitive",
+							"Synonyms": ["Curious", "Nosy", "Prying"]
+						},
+						{
+							"Name": "Curious",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Proud",
+					"Words": [
+						{
+							"Name": "Important",
+							"Synonyms": ["Consequential", "Meaningful", "Significant"]
+						},
+						{
+							"Name": "Confident",
+							"Synonyms": ["Assured", "Asserted"]
+						}
+					]
+				},
+				{
+					"Name": "Accepted",
+					"Words": [
+						{
+							"Name": "Respected",
+							"Synonyms": ["Admired", "Esteemed"]
+						},
+						{
+							"Name": "Fulfilled",
+							"Synonyms": ["Accomplished", "Achieved", "Rewarded"]
+						}
+					]
+				},
+				{
+					"Name": "Powerful",
+					"Words": [
+						{
+							"Name": "Courageous",
+							"Synonyms": ["Bold", "Brave", "Dauntless", "Fearless", "Gallant", "Gutsy", "Gutty", "Heroic"]
+						},
+						{
+							"Name": "Proactive",
+							"Synonyms": ["Forward", "Taking the initiative"]
+						}
+					]
+				},
+				{
+					"Name": "Peaceful",
+					"Words": [
+						{
+							"Name": "Loving",
+							"Synonyms": ["Adoring", "Affectionate", "Devoted", "Fond", "tender"]
+						},
+						{
+							"Name": "Hopeful",
+							"Synonyms": ["Auspicious", "Encouraging", "Optimistic", "Propitious"]
+						}
+					]
+				},
+				{
+					"Name": "Intimate",
+					"Words": [
+						{
+							"Name": "Sensitive",
+							"Synonyms": ["Delicate", "perceptive"]
+						},
+						{
+							"Name": "Playful",
+							"Synonyms": ["Antic", "Frisky"]
+						}
+					]
+				},
+				{
+					"Name": "Optimistic",
+					"Words": [
+						{
+							"Name": "Open",
+							"Synonyms": ["Candid", "Direct", "Frank", "Honest", "Openhearted", "Outspoken"]
+						},
+						{
+							"Name": "Inspired",
+							"Synonyms": ["Encouraged", "Inspirited"]
+						}
+					]
+				}
+			]
+		},
+		{
+			"Name": "Sad",
+			"Subcategories": [
+				{
+					"Name": "Bored",
+					"Words": [
+						{
+							"Name": "Apathetic",
+							"Synonyms": ["Complacent", "Insensible", "Insouciant"]
+						},
+						{
+							"Name": "Indifferent",
+							"Synonyms": ["Disinterested", "Indifferent"]
+						}
+					]
+				},
+				{
+					"Name": "Lonely",
+					"Words": [
+						{
+							"Name": "Abandoned",
+							"Synonyms": ["Deserted"]
+						},
+						{
+							"Name": "Isolated",
+							"Synonyms": ["Cloistered", "Secluded"]
+						}
+					]
+				},
+				{
+					"Name": "Depressed",
+					"Words": [
+						{
+							"Name": "Inferior",
+							"Synonyms": []
+						},
+						{
+							"Name": "Empty",
+							"Synonyms": ["Devoid", "Hollow", "Barren"]
+						}
+					]
+				},
+				{
+					"Name": "Despair",
+					"Words": [
+						{
+							"Name": "Powerless",
+							"Synonyms": ["Hamstrung", "Helpless", "Impotent", "Impuissant", "weak"]
+						},
+						{
+							"Name": "Vulnerable",
+							"Synonyms": ["Exposed", "Liable", "Susceptible"]
+						},
+						{
+							"Name": "Grief",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Abandoned",
+					"Words": [
+						{
+							"Name": "Ignored",
+							"Synonyms": ["Disregarded", "Neglected", "Overlooked"]
+						},
+						{
+							"Name": "Victimized",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Guilty",
+					"Words": [
+						{
+							"Name": "Remorseful",
+							"Synonyms": ["Apologetic", "Compunctious", "regretful"]
+						},
+						{
+							"Name": "Ashamed",
+							"Synonyms": ["Embarrassed", "Disgraced"]
+						}
+					]
+				}
+			]
+		},
+		{
+			"Name": "Disgust",
+			"Subcategories": [
+				{
+					"Name": "Avoidance",
+					"Words": [
+						{
+							"Name": "Hesitant",
+							"Synonyms": ["Indecisive"]
+						},
+						{
+							"Name": "Horrified",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Awful",
+					"Words": [
+						{
+							"Name": "Nauseated",
+							"Synonyms": []
+						},
+						{
+							"Name": "Detestable",
+							"Synonyms": []
+						},
+						{
+							"Name": "Revulsion",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Disappointed",
+					"Words": [
+						{
+							"Name": "Appalled",
+							"Synonyms": []
+						},
+						{
+							"Name": "Revolted",
+							"Synonyms": []
+						},
+						{
+							"Name": "Repugnant",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Dissaproval",
+					"Words": [
+						{
+							"Name": "Judgemental",
+							"Synonyms": []
+						},
+						{
+							"Name": "Embarrassed",
+							"Synonyms": []
+						},
+						{
+							"Name": "Loathing",
+							"Synonyms": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"Name": "Anger",
+			"Subcategories": [
+				{
+					"Name": "Critical",
+					"Words": [
+						{
+							"Name": "Dismissive",
+							"Synonyms": []
+						},
+						{
+							"Name": "Skeptical",
+							"Synonyms": []
+						},
+						{
+							"Name": "Sarcastic",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Distant",
+					"Words": [
+						{
+							"Name": "Withdrawn",
+							"Synonyms": []
+						},
+						{
+							"Name": "Numb",
+							"Synonyms": []
+						},
+						{
+							"Name": "Suspicious",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Frustrated",
+					"Words": [
+						{
+							"Name": "Infuriated",
+							"Synonyms": []
+						},
+						{
+							"Name": "Annoyed",
+							"Synonyms": ["Irritated"]
+						}
+					]
+				},
+				{
+					"Name": "Aggressive",
+					"Words": [
+						{
+							"Name": "Provoked",
+							"Synonyms": []
+						},
+						{
+							"Name": "Hostile",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Mad",
+					"Words": [
+						{
+							"Name": "Furious",
+							"Synonyms": []
+						},
+						{
+							"Name": "Jealous",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Bitter",
+					"Words": [
+						{
+							"Name": "Words",
+							"Synonyms": []
+						}, 
+						{
+							"Name": "Violated",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Humiliated",
+					"Words": [
+						{
+							"Name": "Disrespected",
+							"Synonyms": []
+						}, 
+						{
+							"Name": "Ridiculed",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Let down",
+					"Words": [
+						{
+							"Name": "Betrayed",
+							"Synonyms": []
+						},
+						{
+							"Name": "Resentful",
+							"Synonyms": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"Name": "Fearful",
+			"Subcategories": [
+				{
+					"Name": "Threatened",
+					"Words": [
+						{
+							"Name": "Nervous",
+							"Synonyms": []
+						},
+						{
+							"Name": "Exposed",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Rejected",
+					"Words": [
+						{
+							"Name": "Excluded",
+							"Synonyms": []
+						},
+						{
+							"Name": "Persecuted",
+							"Synonyms": []
+						},
+						{
+							"Name": "Alienated",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Weak",
+					"Words": [
+						{
+							"Name": "Worthless",
+							"Synonyms": []
+						},
+						{
+							"Name": "Insignificant",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Insecure",
+					"Words": [
+						{
+							"Name": "Inadequate",
+							"Synonyms": []
+						},
+						{
+							"Name": "Inferior",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Anxious",
+					"Words": [
+						{
+							"Name": "Overwhelmed",
+							"Synonyms": []
+						},
+						{
+							"Name": "ReseWorriedntful",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Scared",
+					"Words": [
+						{
+							"Name": "Helpless",
+							"Synonyms": []
+						},
+						{
+							"Name": "Frightened",
+							"Synonyms": ["Terrified"]
+						}
+					]
+				}
+			]
+		},
+		{
+			"Name": "Suprise",
+			"Subcategories": [
+				{
+					"Name": "Startled",
+					"Words": [
+						{
+							"Name": "Shocked",
+							"Synonyms": []
+						},
+						{
+							"Name": "Dismayed",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Confused",
+					"Words": [
+						{
+							"Name": "Disillusioned",
+							"Synonyms": []
+						},
+						{
+							"Name": "Perplexed",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Amazed",
+					"Words": [
+						{
+							"Name": "Awe",
+							"Synonyms": []
+						},
+						{
+							"Name": "Astonished",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Excited",
+					"Words": [
+						{
+							"Name": "Eager",
+							"Synonyms": []
+						},
+						{
+							"Name": "Energetic",
+							"Synonyms": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"Name": "Bad",
+			"Subcategories": [
+				{
+					"Name": "Bored",
+					"Words": [
+						{
+							"Name": "Indifferent",
+							"Synonyms": []
+						},
+						{
+							"Name": "Apathetic",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Busy",
+					"Words": [
+						{
+							"Name": "Pressured",
+							"Synonyms": []
+						},
+						{
+							"Name": "Rushed",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Stressed",
+					"Words": [
+						{
+							"Name": "Overwhelmed",
+							"Synonyms": []
+						},
+						{
+							"Name": "Out of control",
+							"Synonyms": []
+						}
+					]
+				},
+				{
+					"Name": "Tired",
+					"Words": [
+						{
+							"Name": "Sleepy",
+							"Synonyms": []
+						},
+						{
+							"Name": "Unfocused",
+							"Synonyms": []
+						}
+					]
+				}
+			]
+		}
+	]
+}

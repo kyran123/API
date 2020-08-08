@@ -1,0 +1,8 @@
+{
+    "version": "v0.0.2",
+    "updateName": "Alpha 2",
+    "updateNotes": "Initial data",
+    "SupportedVersions": [
+        "v1.0.1"
+    ]
+}

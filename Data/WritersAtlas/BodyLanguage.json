@@ -1,0 +1,237 @@
+{
+	"Name": "Body Language",
+	"Description": "Words to use for Body Language",
+	"Type": "Sentences",
+	"Categories": [
+		{
+			"Name": "Head",
+			"Sentences": [
+				"She nodded",
+				"He bobbed his head",
+				"She tilted her head",
+				"He cocked his head",
+				"She inclined her head",
+				"He jerked his head toward",
+				"She threw her head back",
+				"He lowered his head",
+				"She hung her head",
+				"He ducked",
+				"He put his head in his hands",
+				"He covered his eyes with a hand",
+				"She hid behind her book,",
+				"She pressed her hands to her cheeks",
+				"She raised her chin",
+				"He lifted his chin",
+				"He shook his head",
+				"She turned her face away",
+				"He looked away",
+				"She rubbed her temples",
+				"She ran her hand through her hair",
+				"He threaded a hand through his hair",
+				"He raked his fingers through his hair",
+				"He shoved his hair away from his face",
+				"She toyed with a lock of hair",
+				"She twirled her hair",
+				"She wrapped a curl around her finger",
+				"She tucked a lock of her hair behind her ear",
+				"He undid his ponytail",
+				"She shook out her hair",
+				"She tossed her hair",
+				"He buried his hands in his hair",
+				"She tugged at her hair",
+				"He stroked his beard",
+				"She tugged at her earlobe",
+				"She scratched her nose",
+				"She scratched her head",
+				"She rubbed her forehead",
+				"He blotted his forehead with a handkerchief",
+				"She slapped her forehead",
+				"He smacked his forehead",
+				"He facepalmed",
+				"She rubbed her eyes",
+				"She pinched the bridge of her nose",
+				"He held his nose",
+				"She slapped a hand over her mouth",
+				"She covered her mouth with her hand",
+				"She pressed her fingers to her lips",
+				"He tapped his fingers against his lips",
+				"She held her finger up to her lips",
+				"He rubbed his chin",
+				"She pressed a hand to her throat"
+			]
+		},
+		{
+			"Name": "Shoulders",
+			"Sentences": [
+				"He shrugged",
+				"She gave a half shrug",
+				"He lifted his shoulder in a half shrug",
+				"She rubbed her shoulder",
+				"He kneaded his shoulder",
+				"He rolled his shoulders",
+				"She tensed her shoulders",
+				"He massaged the back of his neck"
+			]
+		},
+		{
+			"Name": "Arms",
+			"Sentences": [
+				"Her arms remained at ther sides",
+				"His arms dangled at his sides",
+				"She folded her arms",
+				"He crossed his arms over his chest",
+				"She hugged herself",
+				"He wrapped his arms around himself",
+				"She rubbed her forearms",
+				"She spread her arms wide"
+			]
+		},
+		{
+			"Name": "Hands",
+			"Sentences": [
+				"Her hands squeezed into fists",
+				"His hands tightened into fists",
+				"She clenched her fists",
+				"She balled her fists",
+				"She held up her hands",
+				"He lifted his hands",
+				"She held up her palms",
+				"He threw his hands in the air",
+				"She brushed her palms together",
+				"He rubbed his hands together",
+				"She made a steeple of her fingers",
+				"He spread his hands",
+				"She gesticulated",
+				"He flapped his hands",
+				"He waived his hands",
+				"She clapped her hands",
+				"She shoved her hands into ther pockets",
+				"He jammed his hands in his pockets",
+				"She held out her hand",
+				"He extended a hand",
+				"She folded her hands in her lap"
+			]
+		},
+		{
+			"Name": "Fingers",
+			"Sentences": [
+				"He snapped his fingers",
+				"She held up a finger",
+				"She wagged a finger",
+				"He pointed",
+				"She gestured with a thumb",
+				"He jerked his thumb toward...",
+				"She extended her middle finger toward him",
+				"He gave her the finger",
+				"She flipped him the bird",
+				"She gave him the thumbs up",
+				"He gave him the okay sign",
+				"She flashed a peace sign",
+				"She drew a finger across her throat",
+				"He twirled a finger next to his temple",
+				"She gave a mock salute",
+				"He pretended to shoot himself in the head",
+				"He bit a nail",
+				"She chewed on a cuticle",
+				"She picked her nails",
+				"She inspected her fingernails",
+				"She drummed her fingers on the table",
+				"He tapped his fingers on the table",
+				"He slammed his hand on the table",
+				"She pounded her fist on the table",
+				"She set her palms down flat on the table",
+				"He rested his hands on the table",
+				"She set her hands on the table, palms up",
+				"He fidgeted"
+			]
+		},
+		{
+			"Name": "Chest",
+			"Sentences": [
+				"She touched her hand to her heart",
+				"He pounded his chest",
+				"She clutched her chest"
+			]
+		},
+		{
+			"Name": "Hips",
+			"Sentences": [
+				"She waggled her hips",
+				"He thrust his pelvis",
+				"He put his hands on his hips",
+				"She rested a hand on her hip",
+				"She jutted out her hip"
+			]
+		},
+		{
+			"Name": "Legs",
+			"Sentences": [
+				"She rubber her hands on her thighs",
+				"He swung his lef",
+				"She crossed her legs",
+				"She stretched out her legs in front of her",
+				"He sprawled out",
+				"He slapped his knee"
+			]
+		},
+		{
+			"Name": "Feet",
+			"Sentences": [
+				"She bounced on her toes",
+				"He tapped his foot",
+				"He stomped his foot",
+				"Her toes curled",
+				"He put his feet up on the desk",
+				"She jiggled her foot"
+			]
+		},
+		{
+			"Name": "Reactions",
+			"Sentences": [
+				"His breaths quickened",
+				"She panted",
+				"His chest rose and fell with rapid breaths",
+				"She took in a deep breath",
+				"He drew in a long breath",
+				"She took in a sharp breath",
+				"He gasped",
+				"She held her breath",
+				"He let out a harsh breath",
+				"She exhaled",
+				"He blew out his cheeks",
+				"She huffed",
+				"He sighed",
+				"She snorted",
+				"She laughed",
+				"He giggled",
+				"She guffawed",
+				"He chuckled",
+				"She gave a bitter laugh",
+				"He gave a mirthless laugh",
+				"She tittered",
+				"He cackled",
+				"He Shuddered",
+				"She flinched",
+				"He recoiled",
+				"He shivered",
+				"She trembled",
+				"She cowered",
+				"He shrank back",
+				"She huddled in the corner"
+			]
+		},
+		{
+			"Name": "Playing with objects",
+			"Sentences": [
+				"He plucked at the cuff of his shirt",
+				"She picked lint from her sleeve",
+				"She fiddled with her earring",
+				"He twister the ring on his finger",
+				"She played with her cell phone",
+				"He tugged at his shirt collar",
+				"He adjusted his tie",
+				"She smoothed down her skirt"
+			]
+		}
+	]
+}
