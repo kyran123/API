@@ -2,20 +2,20 @@ const jwt = require('jsonwebtoken');
 
 module.exports = (req, res, next) => {
     try {
+        if(req.headers.authorization === undefined) { 
+            return res.status(401).json({
+                result: false,
+                message: 'Authentication failed'
+            });
+        }
         const token = req.headers.authorization.split(' ')[1];
         const decoded = jwt.verify(token, process.env.JWT_KEY);
-        if(
-            decoded.source === process.env.WINDOWS_APP_SOURCE ||
-            decoded.source === process.env.LINUX_APP_SOURCE ||
-            decoded.source === process.env.MAC_APP_SOURCE ||
-            decoded.source === process.env.WEB_SOURCE
-        ) {
-            req.userData = decoded;
-            next();
-        }
+        req.userData = decoded;
+        next();
     } catch (error) {
         console.error('[Check-Auth] ' + error);
-        return res.status(401).json({
+        return res.status(200).json({
+            result: false,
             message: 'Authentication failed'
         });
     }

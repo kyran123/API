@@ -3,7 +3,6 @@
 //------------------------------------------------------------------//
 const express = require('express');
 const app = express();
-const dotenv = require('dotenv').config();
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
 const mysql = require('mysql2/promise');
@@ -54,6 +53,7 @@ app.use((res, req, next) => {
 const userRoutes = require('./Routes/Users/Users.js');
 const animeRoutes = require('./Routes/Anime/Anime.js');
 const atlasRoutes = require('./Routes/WritersAtlas/Atlas.js');
+const minesweeperRoutes = require('./Routes/MineSweeper/MineSweeper.js');
 const testRoutes = require('./Routes/Test.js');
 
 
@@ -73,9 +73,13 @@ app.use('/ping', testRoutes);
 app.use('/users', userRoutes);
 app.use('/anime', checkAuth, animeRoutes);
 app.use('/atlas', atlasRoutes);
+app.use('/minesweeper', minesweeperRoutes);
 
 
 
+//------------------------------------------------------------------//
+// Socket connections                                               //
+//------------------------------------------------------------------//
 
 
 //------------------------------------------------------------------//

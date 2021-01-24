@@ -5,24 +5,14 @@ module.exports = (req, res, next) => {
     try {
         const token = req.headers.authorization.split(' ')[1];
         const decoded = jwt.verify(token, process.env.JWT_KEY);
-        User.findOne({userName: decoded.name})
-            .exec()
-            .then(user => {
-                if(user) {
-                    if(user.admin){
-                        next();
-                    }
-                }
-            })
-            .catch(err => {
-                res.status(500).json({
-                    error: err
-                });
-            });
+        //TODO: check if user is admin
+        console.log(decoded);
+        if(decoded.admin === 1) {
+            next();
+        }
     } catch (error) {
-        return res.status(401).json({
+        return res.status(200).json({
             message: 'Auth failed'
         });
     }
-    
 };
